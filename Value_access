@@ -1,0 +1,21 @@
+
+
+ class Value_access {
+	int a = 10;
+	static int b =20;
+
+	public static void main(String[] args) {
+		Value_access ob1= new Value_access();
+		System.out.println(ob1.a);
+		System.out.println(ob1.b);
+		ob1.a=1000;
+		ob1.b=2000;
+		System.out.println(ob1.a);
+		System.out.println(ob1.b);
+		Value_access ob2= new Value_access();
+		System.out.println(ob2.a);
+		System.out.println(ob2.b);
+
+	}
+
+}
