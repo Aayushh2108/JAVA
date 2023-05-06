@@ -25,7 +25,7 @@ class Absextend extends Abs_class
 }
 public class Main 
 {
-	public static void main(String args[])
+	public static void main(String[] args)
 	{
 	Abs_class obj= new Absextend();
 	obj.hello();
