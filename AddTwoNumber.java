@@ -1,7 +1,7 @@
 
 public class AddTwoNumber {
 
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		// TODO Auto-generated method stub
 		int num1=10;
 		int num2=20;
