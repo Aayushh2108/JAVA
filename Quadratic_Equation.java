@@ -1,7 +1,7 @@
 
 public class Quadratic_Equation {
 
-	public static void main(String args) {
+	public static void main(String[] args) {
 //		Quadratic Equation//
 		
 		int a=10;
